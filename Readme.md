@@ -8,7 +8,7 @@ Este sistema es un pequeño ejemplo de cómo hacer un sistema de registro de pro
 - Que permite eliminar los registros existentes
 
 # Instalar
-1. Clonar el proyecto
+1. Clonar el proyecto con `https://github.com/damuz91/mi-bodega-html-js` o descargando el repositorio como ZIP
 
 # Ejecutar
 1. (Opcionalmente) Iniciar un servidor web
