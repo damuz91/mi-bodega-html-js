@@ -1,3 +1,7 @@
+![Banner](https://estoyprogramando.co/wp-content/uploads/2023/04/Texto-del-parrafo-1-1-1.jpg)
+
+Suscríbete a mi canal para más contenido de cómo iniciar en el mundo de la programación, además de encontrar contenido específico de programación en Ruby. ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtshJw-uPwhwo-f6450ftQA?label=Suscribirme&style=social) 
+
 # Ejemplo de pequeño sistema de registro de productos en HTML y Javascript
 Este sistema es un pequeño ejemplo de cómo hacer un sistema de registro de productos básicos. Permite grabar en una base de datos local y traer los datos de la misma cuando se recargue la página.
 
